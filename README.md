@@ -24,3 +24,9 @@ Toxin-antitoxin (TA) systems are natural kill switches in bacteria that consist 
 * Filter 2: Profile Hidden Markov Model (pHMM)
 * Filter 3: Basic Local Alignment Search Tool: Protein (BLASTp)
 * Protein structure: ESMFold (https://github.com/facebookresearch/esm)
+
+## Acknowledgements
+CS273B Deep Learning in Genomics and Biomedicine, Spring 2024 \
+Laboratory of Evolutionary Design (https://github.com/evo-design) \
+Kundaje Lab (https://github.com/kundajelab) \
+Gao Lab (https://gaolab.bio/)
