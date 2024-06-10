@@ -1,5 +1,5 @@
 # CS273B_TA_Evo
-CS273B Final Project: Designing _de novo_ bacterial toxin-antitoxins uisng a generative genomic foundation model
+CS273B Final Project: Designing _de novo_ bacterial toxin-antitoxins using a generative genomic foundation model
 
 Authors: Aditi Merchant<sup>1</sup>, Santiago Mille-Fragoso<sup>1</sup>, Samuel King<sup>1</sup>, Chang M. Yun<sup>2</sup> \
 <sup>1</sup>Department of Bioengineering, Stanford University, <sup>2</sup>Department of Chemical Engineering, Stanford University
