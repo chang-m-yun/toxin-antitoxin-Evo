@@ -12,10 +12,10 @@ CS273B Deep Learning in Genomics and Biomedicine, Spring 2024
 * Base model: Evo (https://github.com/evo-design/evo)
 * Finetuning: LoRA (https://github.com/microsoft/LoRA)
 
-## 3. Prompting
+## 3-I. Prompting
 * Base model: Evo (https://github.com/evo-design/evo)
 
-## 4. Evaluation
+## 3-II. Evaluation
 * Filter 1: Multiple sequence alignment
 * Filter 2: Profile Hidden Markov Model (pHMM)
 * Filter 3: Basic Local Alignment Search Tool: Protein (BLASTp)
