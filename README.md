@@ -26,7 +26,7 @@ Toxin-antitoxin (TA) systems are natural kill switches in bacteria that consist 
 * Protein structure: ESMFold (https://github.com/facebookresearch/esm)
 
 ## Acknowledgements
-CS273B Deep Learning in Genomics and Biomedicine, Spring 2024 \
-Laboratory of Evolutionary Design (https://github.com/evo-design) \
-Kundaje Lab (https://github.com/kundajelab) \
-Gao Lab (https://gaolab.bio/)
+* CS273B Deep Learning in Genomics and Biomedicine, Spring 2024 \
+* Laboratory of Evolutionary Design (https://github.com/evo-design) \
+* Kundaje Lab (https://github.com/kundajelab) \
+* Gao Lab (https://gaolab.bio/)
