@@ -1,10 +1,10 @@
 # CS273B_TA_Evo
-CS273B Final Project: Designing _de novo_ bacterial toxin-antitoxins using a generative genomic foundation model
+Designing _de novo_ bacterial toxin-antitoxins using a generative genomic foundation model
 
-Authors: Aditi Merchant<sup>1</sup>, Santiago Mille-Fragoso<sup>1</sup>, Samuel King<sup>1</sup>, Chang M. Yun<sup>2</sup> \
+**Authors**: Aditi Merchant<sup>1</sup>, Santiago Mille-Fragoso<sup>1</sup>, Samuel King<sup>1</sup>, Chang M. Yun<sup>2</sup> \
 <sup>1</sup>Department of Bioengineering, Stanford University, <sup>2</sup>Department of Chemical Engineering, Stanford University
 
-CS273B Deep Learning in Genomics and Biomedicine, Spring 2024
+For CS273B Deep Learning in Genomics and Biomedicine, Spring 2024
 
 ## Abstract
 Toxin-antitoxin (TA) systems are natural kill switches in bacteria that consist of a toxin that inhibits an essential cellular process, and a corresponding antitoxin that counteracts it. TAs are important for bacterial adaptation, persistence, and defense, and have great potential in bioengineering and therapeutic applications, such as for antimicrobials, novel selection markers, and biocontainment. The recent development of genomic large language models (LLMs) promises to enable the generative design of novel TA systems to expand the current toolbox available. Here, we use Evo, a genomic foundation model capable of multi-element generation tasks, to generate _de novo_ TAs by zero-shot prompting and after fine-tuning. We validate the viability of the new TA designs using multiple _in silico_ metrics, including sequence homology and protein structure and interaction prediction, and show that our designs are likely confident candidates ready for experimental validation. Overall, this study demonstrates the first genomic LLM-based design pipeline for TAs and establishes a set of confidence metrics for similar future work.
